@@ -1,6 +1,6 @@
 # Strogo Tattoo
 
-Click here [site URL](https://strogo-tattoo.vercel.app) to browse the project.
+Click here [site URL](https://strogotattoo.pl) to browse the project.
 
 Freelance project. At the client’s request, an online tattoo shop is creating along with a tattoo salon website.
 
